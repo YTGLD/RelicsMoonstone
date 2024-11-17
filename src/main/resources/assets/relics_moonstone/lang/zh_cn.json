@@ -1,0 +1,42 @@
+{
+  "tooltip.relics.max_sword.description": "攻击生物有50%的概率获得 1 点经验值",
+  "tooltip.relics.max_sword.ability.max_sword": "溅血",
+  "tooltip.relics.max_sword.ability.max_sword.description": "击中时恢复主人生命值，恢复的数值取决于此技能的等级，最大等级为10",
+  "tooltip.relics.max_sword.ability.max_sword.stat.amount.title": "恢复的血量：",
+  "tooltip.relics.max_sword.ability.max_sword.stat.amount.value": "+%1$s",
+
+  "tooltip.relics.ectoplasmapple.description": "受到伤害获得 1 点经验值",
+  "tooltip.relics.ectoplasmapple.ability.ectoplasmapple": "灵质爆发",
+  "tooltip.relics.ectoplasmapple.ability.ectoplasmapple.description": "受到攻击使攻击者获得虚弱BUFF，虚弱时长取决于此技能的等级，最大等级为10",
+
+
+
+  "tooltip.relics.regenerative.description": "触发恢复时有25%的概率获得 1 点经验",
+  "tooltip.relics.regenerative.ability.regenerative": "活性化",
+  "tooltip.relics.regenerative.ability.regenerative.description": "增加此物品治疗效果，恢复的数值取决于此技能的等级，最大等级为10",
+
+
+  "tooltip.relics.nightmarecharm.description": "受到伤害获得获得 1 点经验",
+  "tooltip.relics.nightmarecharm.ability.nightmarecharm": "抑制",
+  "tooltip.relics.nightmarecharm.ability.nightmarecharm.description": "增加此物品对深渊的抗性，数值取决于此技能的等级，最大等级为10",
+
+
+  "tooltip.relics.cell_mummy.description": "治疗细胞僵尸时获得 1 点经验",
+  "tooltip.relics.cell_mummy.ability.cell_mummy": "干细胞",
+  "tooltip.relics.cell_mummy.ability.cell_mummy.description": "减少附近细胞僵尸的腐化速度，数值取决于此技能的等级，最大等级为10",
+
+
+  "tooltip.relics.adrenaline.description": "杀死生物获得 5 点经验",
+  "tooltip.relics.adrenaline.ability.adrenaline": "狂暴",
+  "tooltip.relics.adrenaline.ability.adrenaline.description": "增加细胞僵尸的攻击伤害，数值取决于此技能的等级，最大等级为10，单位是百分比",
+
+
+  "tooltip.relics.disgusting_cells.description": "治疗巨型细胞僵尸时获得 1 点经验",
+  "tooltip.relics.disgusting_cells.ability.disgusting_cells": "巨型干细胞",
+  "tooltip.relics.disgusting_cells.ability.disgusting_cells.description": "减少附近巨型细胞僵尸的腐化速度，数值取决于此技能的等级，最大等级为10",
+
+
+  "tooltip.relics.bone_cell.description": "杀死生物获得 5 点经验",
+  "tooltip.relics.bone_cell.ability.bone_cell": "骨结构异常",
+  "tooltip.relics.bone_cell.ability.bone_cell.description": "增加巨型细胞僵尸的攻击伤害，数值取决于此技能的等级，最大等级为10，单位是百分比"
+}
