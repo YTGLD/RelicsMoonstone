@@ -127,13 +127,11 @@ repositories {
     }
 }
 dependencies {
-    implementation "maven.modrinth:moonstone:1.1.1.8-neoforge"
-    implementation "curse.maven:architectury-api-419699:5786327"
-    implementation "curse.maven:octo-lib-916747:5615155"
+    implementation "maven.modrinth:moonstone:1.1.9.7-neoforge"
+
     compileOnly "vazkii.patchouli:Patchouli:1.21-87-NEOFORGE:api"
     runtimeOnly "vazkii.patchouli:Patchouli:1.21-87-NEOFORGE"
     implementation 'top.theillusivec4.curios:curios-neoforge:9.0.14+1.21.1'
-    implementation "curse.maven:relics-mod-445274:5841125"
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
